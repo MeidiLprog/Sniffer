@@ -1,5 +1,7 @@
 # Sniffer
 A simple sniffer, parsing data just like wireshark does
+![packets filtering](images/filter.png)
+
 
 Voici un README complet, structuré, bilingue (🇫🇷 Français + 🇬🇧 English), prêt à être ajouté à ton projet packet_sniffer :
 📡 Packet Sniffer – Projet en C++ / C bas niveau
